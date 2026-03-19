@@ -379,17 +379,6 @@ npx hardhat run scripts/deploy.js --network sepolia
 **Smart contracts are fully tested on Hardhat local testnet.**  
 **Deployment to Sepolia testnet is recommended for public testing and integration.**
 
-##  Author
-
-**Aviral Madhvan**  
-*Full-Stack Developer*
-
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aviralMadhvan24)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aviral-madhvan-801481218/)
----
-
-<div align="center">
-
 
 
 If this project helps you or your community, please consider ⭐ starring the repository!
